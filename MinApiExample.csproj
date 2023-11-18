@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+	<!--<DisableImplicitNamespaceImports>false</DisableImplicitNamespaceImports>-->
+  </PropertyGroup>
+
+	<ItemGroup>
+		<!--<Using Remove="System.Threading" />-->
+		<!--<Using Remove="System" />
+		<Using Remove="Microsoft.AspNetCore.Builder" />-->
+	</ItemGroup>
+
+</Project>
